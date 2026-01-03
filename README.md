@@ -24,8 +24,10 @@
 (список со ссылками: достаточно трёх уязвимостей)
 
 https://www.exploit-db.com/exploits/49757 — Выполнение команд через бэкдор
+
 https://www.exploit-db.com/exploits/6122 — Отравление кэша DNS на удаленном уровне (Metasploit)
-https://www.exploit-db.com/exploits/41974
+
+https://www.exploit-db.com/exploits/41974 - RPCBind / libtirpc — отказ в обслуживании
 
 ## Задание 2
 Проведите сканирование Metasploitable в режимах SYN, FIN, Xmas, UDP.
